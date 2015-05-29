@@ -20,7 +20,6 @@ header {
 
 /* Under 600px */
 @media screen and (max-width: 600px) {
-
   img {
     max-width: 100%;
   }
